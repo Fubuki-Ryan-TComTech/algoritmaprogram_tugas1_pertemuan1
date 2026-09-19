@@ -1,0 +1,17 @@
+#data persegi
+persegi = 26
+bilangan = 4
+keliling = "" #kosong? ya kan belum ketemu
+
+#data tampil
+print ("-- Data sebelum di hitung luas --")
+print ("Panajang Persegi :",persegi)
+print ("Keliling Persegi :",keliling)
+
+#menghitung persegi
+hasilnya = persegi*bilangan #sumber data https://belajarpython.com/tutorial/operator-python/
+
+#data hasilnya
+print ("\n-- Data Hasil di hitung luas--")
+print ("Panajang Persegi :",persegi)
+print ("Keliling Persegi :",hasilnya)
